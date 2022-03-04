@@ -1,4 +1,4 @@
-### AP Comuter Science A Projects and Assignments for Hartland High School
+## AP Comuter Science A Projects and Assignments for Hartland High School
 
 Don't just steal these and turn them in. The autograder will catch them for plagiarism anyway.
 

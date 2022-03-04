@@ -1,6 +1,6 @@
-#Creating Variables and Printing 5
+# Creating Variables and Printing 5
 
-####For you to do:
+#### For you to do:
 
 * Create a String variable called "name" and set it to "Chen" (We cover strings in Unit 2, so this is a preview. `String name = “Chen”;`
 * Create an integer variable called "age" and set it to 50

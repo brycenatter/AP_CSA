@@ -1,4 +1,4 @@
-##Directions
+## Directions
 
 1. Create a new program.  Use a comment at the beginning of the program to provide your first and last name.
 2. Take in four integer values.  Create a variable for each value, title the variables: num1, num2, etc.

@@ -1,4 +1,4 @@
-##Directions
+## Directions
 
 * Read in a 3 digit integer
 * Print each digit on a line

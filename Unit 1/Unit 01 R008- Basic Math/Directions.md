@@ -1,4 +1,4 @@
-##Directions
+## Directions
 
 Read in 3 integers. Each will be on a separate line
 

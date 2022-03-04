@@ -1,8 +1,8 @@
-##Directions
+## Directions
 
 Create a program that computes the total bill due to a restaurant and prints the information listed below. Create variables of the appropriate type to compute, as efficiently as possible, the total bill.
 
-####Use the following data:
+#### Use the following data:
 
 * tip: 18%
 * tax: 6%
@@ -10,7 +10,7 @@ Create a program that computes the total bill due to a restaurant and prints the
 * meal 2 = $12.43
 * meal 3 = $11.23
 
-####**FOUR** important tips for you as you perform calculations:
+#### **FOUR** important tips for you as you perform calculations:
 
 
 * Tip 1: Tax is calculated based on the meal total (you don't tax the tip!)
@@ -21,7 +21,7 @@ Create a program that computes the total bill due to a restaurant and prints the
 
 * Tip 4: use double primitive types for your variables.
 
-####Print the following statements (NOTE: there is a period at the end of each statement)
+#### Print the following statements (NOTE: there is a period at the end of each statement)
 
 1. The total cost of our food is _____.
 

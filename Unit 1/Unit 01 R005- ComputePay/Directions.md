@@ -1,3 +1,5 @@
+## Directions
+
 The following program redundantly repeats the same expression many times. Modify the program to remove all redundant operations using variables of appropriate types.
 
 	public class ComputePay {
